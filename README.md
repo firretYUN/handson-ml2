@@ -1,6 +1,8 @@
 Machine Learning Notebooks
 ==========================
 
+UPDATED:
+
 # ⚠ The 3rd edition of my book will be released in October 2022. The notebooks are available at [ageron/handson-ml3](https://github.com/ageron/handson-ml3) and contain more up-to-date code.
 
 This project aims at teaching you the fundamentals of Machine Learning in
